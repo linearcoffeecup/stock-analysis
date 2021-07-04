@@ -11,7 +11,7 @@ In this project, Excel VBA was used to analyze all stocks in the portfolio.  It 
 | :---: | :--: | :---: |
 | Year | Original(seconds) | Refactored(seconds) |
 | 2017 | [0.375](https://github.com/linearcoffeecup/stock-analysis/blob/main/Resources/Original_2017.png)| [0.082](https://github.com/linearcoffeecup/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png )          |
-| 2018 |.[0.160]( )		     | [0.078] ( )          |
+| 2018 |.[0.160](https://github.com/linearcoffeecup/stock-analysis/blob/main/Resources/Original_2018.png)		     | [0.078] ( )          |
 
 
 ## **Summary**
